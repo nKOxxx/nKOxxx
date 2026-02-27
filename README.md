@@ -11,7 +11,7 @@
 - 🔭 Currently building **AgentVault**, **2ndCTO**, **MemoryBridge** — infrastructure for AI agents
 - 🌱 Learning the intersection of AI agents, crypto payments, and autonomous systems
 - 💬 Ask me about: blockchain, venture capital, AI agent architecture, emerging markets
-- ⚡ Fun fact: Built Aeternity to unicorn status, got cheated by co-founder, now building with AI partners that can't betray
+- ⚡ Fun fact: Built Aeternity to unicorn status, now building with AI partners that can't betray
 
 ## Tech Stack
 
