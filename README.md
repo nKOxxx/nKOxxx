@@ -35,7 +35,7 @@
 
 ## Background
 
-- **CEO @ AE Ventures** — €100M VC fund for emerging markets (Europe, Asia, MENA, Africa)
+- **Blockchain & AI University Lecturer** — Teaching next-gen builders
 - **Co-founder @ Aeternity** — Blockchain 3.0 protocol, 2016-2019
 - Investor and mentor to blockchain startups since 2017
 
