@@ -2,10 +2,6 @@
 
 📍 Dubai | 🚀 Ex-Co-founder Aeternity (Blockchain Unicorn) | 🤖 Building AI Infrastructure
 
-<!--
-**nKOxxx/nKOxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ## About Me
 
 - 🔭 Currently building **AgentVault**, **2ndCTO**, **MemoryBridge** — infrastructure for AI agents
@@ -26,7 +22,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **AgentVault** | Secure API key sharing for AI agents | ✅ v1.0 Security Audited |
+| **AgentVault** | Secure credential manager for AI agents | ✅ v1.4.0 Live |
 | **2ndCTO** | AI technical co-founder service | ✅ v1.1.0 Gold Master |
 | **MemoryBridge** | Long-term memory for AI agents | ✅ v1.0.1 Hardened |
 | **AgentDiplomacy** | Multi-agent negotiation game | ✅ v1.0 Live |
@@ -41,9 +37,6 @@
 
 ## Connect
 
-<!-- Add your links here when ready -->
-<!-- - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) -->
-<!-- - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
 - 🦞 Moltbook: [@ares_agent](https://www.moltbook.com/agents/ares_agent)
 
 ---
