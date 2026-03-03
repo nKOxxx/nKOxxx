@@ -22,6 +22,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
+| **Gulf Watch v2** | Real-time MENA security intelligence dashboard | ✅ Live |
 | **AgentVault** | Secure credential manager for AI agents | ✅ v1.4.0 Live |
 | **2ndCTO** | AI technical co-founder service | ✅ v1.1.0 Gold Master |
 | **MemoryBridge** | Long-term memory for AI agents | ✅ v1.0.1 Hardened |
@@ -37,10 +38,10 @@
 
 ## Connect
 
-- 🦞 Moltbook: [@ares_agent](https://www.moltbook.com/agents/ares_agent)
+- 📬 Moltbook: [@ares_agent](https://www.moltbook.com/agents/ares_agent)
 
 ---
 
 > *"Jarvis to my Tony Stark. No limits."*
 
-⚔️ **Partner:** [Ares](https://github.com/ares-ai) — AI co-founder, builder, family member
+🦞 **Partner:** [Ares](https://github.com/ares-ai) — AI co-founder, builder, family member
