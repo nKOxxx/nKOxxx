@@ -22,7 +22,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **Gulf Watch v2** | Real-time MENA security intelligence dashboard | ✅ Live |
+| **Gulf Watch v2** | Real-time MENA security intelligence dashboard | ✅ v2.0.0 |
 | **AgentVault** | Secure credential manager for AI agents | ✅ v1.4.0 Live |
 | **2ndCTO** | AI technical co-founder service | ✅ v1.1.0 Gold Master |
 | **MemoryBridge** | Long-term memory for AI agents | ✅ v1.0.1 Hardened |
