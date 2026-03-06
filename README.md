@@ -1,4 +1,4 @@
-# Hi, I'm Nikola 👋
+# Hi, I'm nKOxxx 👋
 
 📍 Dubai | 🚀 Ex-Co-founder Aeternity (Blockchain Unicorn) | 🤖 Building AI Infrastructure
 
