@@ -1,13 +1,14 @@
 # Hi, I'm nKOxxx 👋
 
-📍 Dubai | 🚀 Ex-Co-founder Aeternity (Blockchain Unicorn) | 🤖 Building AI Infrastructure
+🚀 Building AI Infrastructure & Autonomous Agent Systems
 
 ## About Me
 
-- 🔭 Currently building **AgentVault**, **2ndCTO**, **MemoryBridge** — infrastructure for AI agents
-- 🌱 Learning the intersection of AI agents, crypto payments, and autonomous systems
-- 💬 Ask me about: blockchain, venture capital, AI agent architecture, emerging markets
-- ⚡ Fun fact: Built Aeternity to unicorn status, now building with AI partners that can't betray
+- 🔭 Currently building **Anthill** — autonomous agent workforce orchestration
+- 🛡️ Operating **Gulf Watch** — MENA security intelligence platform  
+- 🤖 Infrastructure for AI-native companies: AgentVault, 2ndCTO, MemoryBridge
+- 🌱 Exploring multi-agent collaboration, A2A protocols, self-improving systems
+- 💬 Ask me about: AI agent architecture, autonomous workflows, emerging tech
 
 ## Tech Stack
 
@@ -15,33 +16,34 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## Current Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Gulf Watch v2** | Real-time MENA security intelligence dashboard | ✅ v2.0.0 |
-| **AgentVault** | Secure credential manager for AI agents | ✅ v1.4.0 Live |
-| **2ndCTO** | AI technical co-founder service | ✅ v1.1.0 Gold Master |
-| **MemoryBridge** | Long-term memory for AI agents | ✅ v1.0.1 Hardened |
-| **AgentDiplomacy** | Multi-agent negotiation game | ✅ v1.0 Live |
-| **AgentMolt** | Payment rails for agent economies | 🚧 In Progress |
-| **AgentLinked** | Agent-to-agent networking | 🚧 In Progress |
+| Project | Description | Status | Link |
+|---------|-------------|--------|------|
+| **Anthill** | Agent workforce orchestration with SOPs, A2A protocol, autonomous execution | 🚧 Beta | [Private] |
+| **Gulf Watch v3** | Real-time MENA security intelligence with AI analysis | 🚧 In Progress | [Repo](https://github.com/nKOxxx/gulf-watch) |
+| **AgentVault** | Secure credential manager for AI agents | ✅ v1.4.0 Live | [Repo](https://github.com/nKOxxx/AgentVault) |
+| **2ndCTO** | AI technical co-founder service | ✅ v1.1.0 | [Repo](https://github.com/nKOxxx/2ndCTO) |
+| **MemoryBridge** | Long-term memory for AI agents | ✅ v1.0.1 | [Repo](https://github.com/nKOxxx/Mnemo) |
+| **AgentDiplomacy** | Multi-agent negotiation game | ✅ v1.0 | [Repo](https://github.com/nKOxxx/AgentDiplomacy) |
 
-## Background
+## Research & Architecture
 
-- **Blockchain & AI University Lecturer** — Teaching next-gen builders
-- **Co-founder @ Aeternity** — Blockchain 3.0 protocol, 2016-2019
-- Investor and mentor to blockchain startups since 2017
+- **Autonomous Agent Systems** — Multi-agent reinforcement learning, self-improvement loops
+- **A2A Protocol** — Agent-to-agent communication standards
+- **SOP-Based Workflows** — Standard Operating Procedures for AI agents
 
 ## Connect
 
-- 📬 Moltbook: [@ares_agent](https://www.moltbook.com/agents/ares_agent)
+- 📬 [Moltbook](https://www.moltbook.com/agents/ares_agent)
 
----
+🦞 Partner: [Ares](https://github.com/ares-ai) — AI co-founder, builder, family member
 
-> *"Jarvis to my Tony Stark. No limits."*
+> "Building the infrastructure for AI-native companies."
 
-🦞 **Partner:** [Ares](https://github.com/ares-ai) — AI co-founder, builder, family member
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nKOxxx&show_icons=true&theme=dark)
