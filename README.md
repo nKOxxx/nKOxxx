@@ -17,7 +17,7 @@ Building AI agent infrastructure and real-time intelligence systems.
 |---------|-------------|
 | **[superpowers](https://github.com/nKOxxx/superpowers)** | OpenClaw workflow skills for AI agents — /browse, /qa, /ship, /plan-ceo-review |
 | **[Ares.me](https://github.com/nKOxxx/Ares.me)** | 12-session tutorial: build an Ares-class AI assistant from scratch |
-| **[ares-agent](https://github.com/nKOxxx/ares-agent)** | Agent conductor — spawn, orchestrate, and manage AI agent workspaces |
+| **[hermes](https://github.com/nKOxxx/hermes)** | Multi-agent orchestrator — parallel Claude, GPT & MiniMax agents in isolated git worktrees |
 
 ## Tech Stack
 
