@@ -1,14 +1,23 @@
-# Hi, I'm nKOxxx 👋
+# Hi, I'm nKOxxx
 
-🚀 Building AI Infrastructure & Autonomous Agent Systems
+Building AI agent infrastructure and real-time intelligence systems.
 
-## About Me
+## Flagship Projects
 
-- 🔭 Currently building **Anthill** — autonomous agent workforce orchestration
-- 🛡️ Operating **Gulf Watch** — MENA security intelligence platform  
-- 🤖 Infrastructure for AI-native companies: AgentVault, 2ndCTO, MemoryBridge
-- 🌱 Exploring multi-agent collaboration, A2A protocols, self-improving systems
-- 💬 Ask me about: AI agent architecture, autonomous workflows, emerging tech
+| Project | What it does | Status | Links |
+|---------|-------------|--------|-------|
+| **[GulfWatch](https://github.com/nKOxxx/gulfwatch-testing)** | MENA situational awareness platform — 48+ intel sources, tactical map, AI modules (Argus, Chatter, Ignite, Chronos, Skyline) | Live | [App](https://gulfwatch-testing.vercel.app) · [Discussions](https://github.com/nKOxxx/gulfwatch-testing/discussions) |
+| **[AgentVault](https://github.com/nKOxxx/AgentVault)** | Encrypted credential management for AI agents — native macOS desktop app, audit logging, zero cloud | v1.4.0 | [Download](https://github.com/nKOxxx/AgentVault/releases) · [Discussions](https://github.com/nKOxxx/AgentVault/discussions) |
+| **[Cognexia](https://github.com/nKOxxx/Cognexia)** | Persistent memory layer for AI agents — project-isolated, searchable, Obsidian sync, Electron app | Active | [Discussions](https://github.com/nKOxxx/Cognexia/discussions) |
+| **[2ndCTO](https://github.com/nKOxxx/2ndCTO)** | AI codebase risk analyzer — security scanning, bus factor, tech debt scoring, Chrome extension | Active | [Discussions](https://github.com/nKOxxx/2ndCTO/discussions) |
+
+## Other Work
+
+| Project | Description |
+|---------|-------------|
+| **[superpowers](https://github.com/nKOxxx/superpowers)** | OpenClaw workflow skills for AI agents — /browse, /qa, /ship, /plan-ceo-review |
+| **[Ares.me](https://github.com/nKOxxx/Ares.me)** | 12-session tutorial: build an Ares-class AI assistant from scratch |
+| **[ares-agent](https://github.com/nKOxxx/ares-agent)** | Agent conductor — spawn, orchestrate, and manage AI agent workspaces |
 
 ## Tech Stack
 
@@ -17,33 +26,18 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-## Current Projects
+## Research Interests
 
-| Project | Description | Status | Link |
-|---------|-------------|--------|------|
-| **Anthill** | Agent workforce orchestration with SOPs, A2A protocol, autonomous execution | 🚧 Beta | [Private] |
-| **Gulf Watch v3** | Real-time MENA security intelligence with AI analysis | 🚧 In Progress | [Repo](https://github.com/nKOxxx/gulf-watch) |
-| **AgentVault** | Secure credential manager for AI agents | ✅ v1.4.0 Live | [Repo](https://github.com/nKOxxx/AgentVault) |
-| **2ndCTO** | AI technical co-founder service | ✅ v1.1.0 | [Repo](https://github.com/nKOxxx/2ndCTO) |
-| **MemoryBridge** | Long-term memory for AI agents | ✅ v1.0.1 | [Repo](https://github.com/nKOxxx/Mnemo) |
-| **AgentDiplomacy** | Multi-agent negotiation game | ✅ v1.0 | [Repo](https://github.com/nKOxxx/AgentDiplomacy) |
-
-## Research & Architecture
-
-- **Autonomous Agent Systems** — Multi-agent reinforcement learning, self-improvement loops
-- **A2A Protocol** — Agent-to-agent communication standards
-- **SOP-Based Workflows** — Standard Operating Procedures for AI agents
+Autonomous agent systems · Agent-to-agent protocols · OSINT automation · SOP-based AI workflows · Local-first encrypted infrastructure
 
 ## Connect
 
-- 📬 [Moltbook](https://www.moltbook.com/agents/ares_agent)
+[Moltbook](https://www.moltbook.com/agents/ares_agent)
 
-🦞 Partner: [Ares](https://github.com/ares-ai) — AI co-founder, builder, family member
-
-> "Building the infrastructure for AI-native companies."
-
-## GitHub Stats
+> Building the infrastructure for AI-native companies.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nKOxxx&show_icons=true&theme=dark)
