@@ -9,7 +9,7 @@ Intelligence systems. Agent infrastructure. Security tooling.
 | | Project | Description | |
 |---|---------|-------------|-|
 | | [**GulfWatch**](https://github.com/nKOxxx/gulfwatch-testing) | MENA situational awareness platform — 48+ intel sources, interactive tactical map, AI-powered modules (Argus, Chatter, Ignite, Chronos, Skyline), market impact tracking | [Live](https://gulfwatch-testing.vercel.app) |
-| | [**Cognexia**](https://github.com/nKOxxx/Cognexia) | Persistent memory layer for AI agents — project-isolated SQLite, encrypted local storage, full-text search, REST API, Electron desktop app, Obsidian sync | |
+| | [**Threadkeeper**](https://github.com/nKOxxx/Threadkeeper) | Automatic context persistence for Claude Code — one-command install, zero configuration, 70-80% token savings, security filtering, local-only storage, project-isolated SQLite, audit logging | |
 | | [**IronVault**](https://github.com/nKOxxx/AgentVault) | Encrypted credential vault for AI agents — AES-256-GCM, WebSocket key delivery, CLI client, audit logging, native macOS app. Zero cloud dependency | [Releases](https://github.com/nKOxxx/AgentVault/releases) |
 | | [**2ndCTO**](https://github.com/nKOxxx/2ndCTO) | AI codebase risk analyzer — security scanning, bus factor detection, technical debt scoring, code modernization suggestions. Chrome extension included | |
 | | [**hermes**](https://github.com/nKOxxx/hermes) | Multi-agent orchestrator — parallel Claude, GPT & MiniMax in isolated git worktrees with streaming, code review, and merge workflow | |
