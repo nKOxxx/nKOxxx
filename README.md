@@ -2,7 +2,7 @@
 
 Agent infrastructure. Intelligence systems. Machine economic actors.
 
-[sweap.it](https://sweap.it) · [GulfWatch v2](https://gulf-watch-v2.vercel.app) · Dubai
+[sweap.it](https://sweap.it) · [GulfWatch v2](https://gulf-watch-v2.vercel.app)
 
 ---
 
@@ -26,10 +26,6 @@ Read-only — it prints, it doesn't touch. Run it and [post your receipt](https:
 | [**GulfWatch v2**](https://github.com/nKOxxx/gulf-watch-v2) | MENA security & intelligence dashboard — 44 authoritative sources incl. 25 official government feeds, auto-updating via GitHub Actions | [Live](https://gulf-watch-v2.vercel.app) |
 | [**nybls**](https://github.com/nKOxxx/nybls) | Low-cost, iterative video watching for AI agents — transcript first, then only the frames it asks for, with receipts | |
 | [**Exposure**](https://github.com/nKOxxx/exposure) | Local-first personal digital-exposure and remediation engine — find what the internet knows about you, judge what matters, act on it. No account, no telemetry, no cloud. Security-audited, 458 tests, 98% coverage | [v1.0.0](https://github.com/nKOxxx/exposure/releases/tag/v1.0.0) |
-| [**Cognexia**](https://github.com/nKOxxx/Cognexia) | The missing memory layer for AI agents — persistent, searchable, project-isolated memory with encrypted local storage, Electron desktop app, Obsidian integration | |
-| [**AgentVault**](https://github.com/nKOxxx/AgentVault) | Encrypted credential vault for AI agents — AES-256-GCM hardware-accelerated, WebSocket key delivery, audit logging, native macOS app. Zero cloud dependency | [Releases](https://github.com/nKOxxx/AgentVault/releases) |
-| [**hermes**](https://github.com/nKOxxx/hermes) | Run a fleet of AI coding agents in parallel — Claude, GPT & MiniMax in isolated git worktrees with streaming, code review, and merge workflow | |
-| [**agentic-institutions**](https://github.com/nKOxxx/agentic-institutions) | Companion repo for the paper *Agentic Institutions: Mandates, Capabilities, Constraints, and Escalation for Machine Economic Actors* — instruments, frozen archive, review trail | |
 
 ---
 
@@ -44,9 +40,13 @@ Read-only — it prints, it doesn't touch. Run it and [post your receipt](https:
 [#31](https://github.com/Mechanica-Labs/goliath/pull/31) double-action prevention for slow sessions
 Plus: session-scoped capability policy proposal ([#16](https://github.com/Mechanica-Labs/goliath/issues/16)) and open PR on redirect origin confinement ([#20](https://github.com/Mechanica-Labs/goliath/pull/20)).
 
-**Elsewhere upstream** — merged PRs to [morluto/rea](https://github.com/morluto/rea/pull/2112) (verified macOS arm64 native Ghidra decompiler recipe), [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT/pull/12283) (Google Gemini integration docs), [RetellAI/n8n-nodes-retellai](https://github.com/RetellAI/n8n-nodes-retellai/pull/5) (README + troubleshooting). PRs across the agent ecosystem: open-webui, browser-use, n8n, anthropics/claude-cookbooks, mem0, Flowise, kyrolabs/awesome-agents, koala73/worldmonitor.
+**[morluto/rea](https://github.com/morluto/rea)** — reverse engineering with agents: verified macOS arm64 native Ghidra decompiler build recipe ([#2112](https://github.com/morluto/rea/pull/2112), merged).
 
-**Maintenance** — [nybls](https://github.com/nKOxxx/nybls): 11 merged PRs (security hardening, CI pipeline, cost-ledger honesty, digest OCR index) · [alleadz](https://github.com/nKOxxx/alleadz): 5 merged (RLS-safe snapshot tooling, cohort analytics, audit fixes) · [agentic-institutions](https://github.com/nKOxxx/agentic-institutions): v1.7.4 revised through two external review rounds.
+**[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — real-time global monitoring: Turkey live camera feeds ([#1242](https://github.com/koala73/worldmonitor/pull/1242)).
+
+**Upstream merges** — [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT/pull/12283) (Google Gemini integration docs) · [RetellAI/n8n-nodes-retellai](https://github.com/RetellAI/n8n-nodes-retellai/pull/5) (README + troubleshooting overhaul).
+
+**PRs across the agent ecosystem** — [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks/pull/417), [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts/pull/367), [open-webui/open-webui](https://github.com/open-webui/open-webui/pull/22241), [browser-use/browser-use](https://github.com/browser-use/browser-use/pull/4271), [n8n-io/n8n](https://github.com/n8n-io/n8n/pull/26554), [mem0ai/mem0](https://github.com/mem0ai/mem0/pull/4218), [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise/pull/5898), [elevenlabs/examples](https://github.com/elevenlabs/examples/pull/217), [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents/pull/173), [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/549), [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins/pull/611), [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x/pull/1682), [vercel/hyper](https://github.com/vercel/hyper/pull/8116), [openclaw/openclaw](https://github.com/openclaw/openclaw/pull/46064).
 
 ---
 
