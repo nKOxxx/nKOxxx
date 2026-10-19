@@ -26,6 +26,8 @@ Read-only — it prints, it doesn't touch. Run it and [post your receipt](https:
 | [**GulfWatch v2**](https://github.com/nKOxxx/gulf-watch-v2) | MENA security & intelligence dashboard — 44 authoritative sources incl. 25 official government feeds, auto-updating via GitHub Actions | [Live](https://gulf-watch-v2.vercel.app) |
 | [**nybls**](https://github.com/nKOxxx/nybls) | Low-cost, iterative video watching for AI agents — transcript first, then only the frames it asks for, with receipts | |
 | [**Exposure**](https://github.com/nKOxxx/exposure) | Local-first personal digital-exposure and remediation engine — find what the internet knows about you, judge what matters, act on it. No account, no telemetry, no cloud. Security-audited, 458 tests, 98% coverage | [v1.0.0](https://github.com/nKOxxx/exposure/releases/tag/v1.0.0) |
+| [**sovereign-grid**](https://github.com/nKOxxx/sovereign-grid) | The structured marketplace for sovereign-scale GPU compute — ADGM venue, normalized quotes, evidence-backed eligibility, institutional controls | [Live](https://sovereign-grid-o707.onrender.com) |
+| [**alleadz**](https://github.com/nKOxxx/alleadz) | Intelligence-to-opportunity operating system — turns a change in the world into a specific, evidence-linked commercial opportunity; GPU-compute wedge | [Live](https://alleadz.onrender.com) |
 
 ---
 
